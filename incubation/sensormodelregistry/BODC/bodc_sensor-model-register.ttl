@@ -58,6 +58,7 @@
         skos:exactMatch        <http://linkedsystems.uk/system/prototype/TOOL0022/> ;
         skos:prefLabel         "Sea-Bird SBE 37-IM MicroCAT C-T Sensor" ;
         skos:related <https://dbpedia.org/resource/Sensor> ;
+        skos:related <https://dbpedia.org/resource/Pressure_sensor> ;
         prov:hadPrimarySource  <http://linkedsystems.uk/system/prototype/> .
 
 <http://www.opengis.net/def/sensor-model/BODC/TOOL1247>
@@ -167,6 +168,7 @@
         skos:exactMatch        <http://linkedsystems.uk/system/prototype/TOOL0141/> ;
         skos:prefLabel         "HOBI HydroScat-2 Optical Backscatter Fluorometer" ;
         skos:related <https://dbpedia.org/resource/Sensor> ;
+        skos:related <https://dbpedia.org/resource/Fluorometer> ;
         prov:hadPrimarySource  <http://linkedsystems.uk/system/prototype/> .
 
 <http://www.opengis.net/def/sensor-model/BODC/TOOL0973>
@@ -193,6 +195,8 @@
         skos:exactMatch        <http://linkedsystems.uk/system/prototype/TOOL0673/> ;
         skos:prefLabel         "WET Labs ECO Puck Triple-Measurement Meter" ;
         skos:related <https://dbpedia.org/resource/Sensor> ;
+        skos:related <https://dbpedia.org/resource/Fluorometer> ;
+        skos:related <https://dbpedia.org/resource/Scatterometer> ;
         prov:hadPrimarySource  <http://linkedsystems.uk/system/prototype/> .
 
 <http://www.opengis.net/def/sensor-model/BODC/TOOL0215>
@@ -220,6 +224,7 @@
         skos:exactMatch        <http://linkedsystems.uk/system/prototype/TOOL0668/> ;
         skos:prefLabel         "Sea-Bird Scientific SBE 41 CTD" ;
         skos:related <https://dbpedia.org/resource/Sensor> ;
+        skos:related <https://dbpedia.org/resource/Salinometer> ;
         prov:hadPrimarySource  <http://linkedsystems.uk/system/prototype/> .
 
  <http://www.opengis.net/def/sensor-model/BODC/TOOL1188>
